@@ -8,11 +8,11 @@ inbounds:
   protocol: trojan
   settings:
     clients:
-    - password: "PASSWORD"
+    - password: "112211"
   streamSettings:
     network: ws
     wsSettings:
-      path: WSPATH
+      path: /tr
   sniffing:
     enabled: true
     destOverride:
